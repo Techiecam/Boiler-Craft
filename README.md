@@ -1,5 +1,5 @@
 #Boiler-Craft
-My first ambitious Minecraft mod. Planning to make a mod based around boilers and steam production to produce RF power.
+My first ambitious Minecraft mod. I am planning to make a mod based around boilers and steam production to produce RF power. Eventually I want it to include as many aspects as possible around power generation. Hopefully it will turn out to be a fun mod. 
 
 [![Release](https://img.shields.io/github/release/Techiecam/Boiler-Craft.svg)]() [![Total Downloads](https://img.shields.io/github/downloads/Techiecam/Boiler-Craft/total.svg)]()
 
