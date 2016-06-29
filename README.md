@@ -1,5 +1,7 @@
-#Boiler-Craft [![Release](https://img.shields.io/github/release/Techiecam/Boiler-Craft.svg)]() [![Total Downloads](https://img.shields.io/github/downloads/Techiecam/Boiler-Craft/total.svg)]()
+#Boiler-Craft
 My first ambitious Minecraft mod.
+
+[![Release](https://img.shields.io/github/release/Techiecam/Boiler-Craft.svg)]() [![Total Downloads](https://img.shields.io/github/downloads/Techiecam/Boiler-Craft/total.svg)]()
 
 ##Table of Contents
 * [License]
